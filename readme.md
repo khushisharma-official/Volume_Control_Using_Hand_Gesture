@@ -5,7 +5,6 @@ Control your system volume using hand gestures! This project uses computer visio
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10+-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## 🎯 Features
 
@@ -219,6 +218,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Pycaw](https://github.com/AndreMiras/pycaw) - For Windows audio control
 - [OpenCV](https://opencv.org/) - For computer vision capabilities
 - [cvzone](https://github.com/cvzone/cvzone) - For simplified CV operations
+
 
 
 
