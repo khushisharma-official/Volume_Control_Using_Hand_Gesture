@@ -220,31 +220,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [OpenCV](https://opencv.org/) - For computer vision capabilities
 - [cvzone](https://github.com/cvzone/cvzone) - For simplified CV operations
 
-[//]: # 👨‍💻 Author
 
-[//]: Your Name**
-[//]: GitHub: [@khushisharma-official](https://github.com/khushisharma-official)
-[//]: LinkedIn: [Your Name](https://linkedin.com/in/khushi-sh)
 
-[//]: # (- Portfolio: [yourwebsite.com]&#40;https://yourwebsite.com&#41;)
-[//]: # (- Email: your.email@example.com)
-
-[//]: # 🌟 Show your support
-
-Give a ⭐️ if this project helped you!
-
-[//]: # (## 📞 Contact)
-
-[//]: # ()
-[//]: # (For any queries or suggestions, feel free to reach out:)
-
-[//]: # (- Open an issue on GitHub)
-
-[//]: # (- Email: your.email@example.com)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-
-[//]: # (**Made with ❤️ and Python**)
